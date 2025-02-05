@@ -26,3 +26,36 @@ int count_eq(double v[], int sz, double val, double tol)
 ```
 
 > Mi solución: [problema2.cc](https://github.com/hectorma13/AyED/blob/main/problemas_examen_1/problema2.cc)
+
+## Problema 3
+
+### Enunciado
+
+1. Diséñese e impleméntese una función que cuente el número de elementos menores que el valor `val` dentro de un vector `double` con una tolerancial `tol`.
+2. Diséñese e impleméntese una función que cuente el número de elementos mayores que el valor `val` dentro de un vector `double` con una tolerancial `tol`.
+
+La cabecera de los procedimientos debería ser:
+
+```cpp
+int count_less(double v[], int sz, double val, double tol)
+int count_great(double v[], int sz, double val, double tol)
+```
+
+> Mi solución: [problema3.cc](https://github.com/hectorma13/AyED/blob/main/problemas_examen_1/problema3.cc)
+
+## Problema 4
+
+### Enunciado
+
+1. Diseñar e implementar una función que sume todos los elementos de un vector `int`.
+2. Diseñar e implementar una función de cuente el número de elementos pares que hay dentro de un vector `int`.
+3. Diseñar e implementar una función de cuente el número de elementos impares que hay dentro de un vector `int`.
+
+Las cabeceras debería ser de la siguiente manera:
+
+```cpp
+int suma(int v[], int sz)
+int cont_pair(int v[], int sz)
+int cont_odd(int v[], int sz)
+```
+> Mi solución: [problema4.cc](https://github.com/hectorma13/AyED/blob/main/problemas_examen_1/problema4.cc)
