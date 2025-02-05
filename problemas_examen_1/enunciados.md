@@ -11,3 +11,5 @@ int scal_prod(int v1[], int v2[], int sz)
 ```
 
 Elabora además, un programa principal en el que se inicialicen dos vectores `v1` y `v2` con números aleatorios con valores comprendidos entre -50 y 50, y efectúe el producto escalar entre ambos.
+
+> Mi solución: [problema1.cc](https://github.com/hectorma13/AyED/blob/main/problemas_examen_1/problema1.cc)
